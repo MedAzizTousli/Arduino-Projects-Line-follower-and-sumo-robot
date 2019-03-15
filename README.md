@@ -1,4 +1,4 @@
-# Robotique_Competitive
+# Robotique Competitive
 <p> Afin de participer dans plusieurs compétitions de robotique, on a fait la modélisation et la création d'un suiveur de ligne et d'un robot sumo en implémentant nos connaissances en Arduino. </p>
 <h2> À propos </h2>
 <p> Ce projet a été réalisé dans le cadre des activités extra-scolaires à l'Ecole Polytechnique de Tunisie sous le club robotique de l'EPT "Robo C'EPT". </p>
