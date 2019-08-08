@@ -1,4 +1,4 @@
-# Arduino Projects - Make a line follower and a sumo robot
+# Arduino Projects - Line follower and sumo robot
 <p> To participate in several robotics competitions, we modeled and created a line follower and a sumo robot by implementing our knowledge of Arduino. </p>
 <h2> About </h2>
 <p> This project was carried out as part of extra-curricular activities at Tunisia Polytechnic School under the robotic club of the EPT "Robo C'EPT". </p>
